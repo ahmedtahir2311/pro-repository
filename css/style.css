@@ -1872,5 +1872,16 @@ background-color: #777777;
 	background-position: top;
 	transition: ease-in-out 8s;
 }
+@media only screen and (max-width:790px){
+
+	.portcontainer{
+
+		flex-wrap: wrap;
+	}
+	.project {
+		width: 95%;
+		margin: 0px auto;
+	}
+}
 
 
